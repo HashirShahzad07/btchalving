@@ -437,8 +437,19 @@ a.elementor-button-link.elementor-button.elementor-size-xl.elementor-animation-f
     display: none;
 }
 
+.elementor-widget-container {
+    font-weight: 800;
+}
 
-
+.coutndownsec h1 {
+    font-weight: bold !important;
+}
+h2 {
+    font-weight: 800 !important;
+}
+span.elementor-image-box-title {
+    font-weight: 800 !important;
+}
 
 
 
