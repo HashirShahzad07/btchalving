@@ -433,7 +433,9 @@ a.elementor-button-link.elementor-button.elementor-size-xl.elementor-animation-f
 .coutndownsec h1 {
     font-family: 'Air-Semibold', sans-serif;
 }
-
+.elementor-element.elementor-element-835f2a5.elementor-widget__width-auto.elementor-widget.elementor-widget-image {
+    display: none;
+}
 
 
 
