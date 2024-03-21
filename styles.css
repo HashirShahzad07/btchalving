@@ -444,6 +444,9 @@ a.elementor-button-link.elementor-button.elementor-size-xl.elementor-animation-f
 
 
 @media (max-width: 480px) {
+	.elementor-18927 .elementor-element.elementor-element-6cea336:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap {
+		background: transparent !important;
+	}
 	.elementor-18927 .elementor-element.elementor-element-12c4f12 .elementor-image-box-wrapper .elementor-image-box-img:before {
 		left: 50%;
 		transform: translate(-50%, -50%);
