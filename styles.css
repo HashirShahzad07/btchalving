@@ -453,10 +453,15 @@ span.elementor-image-box-title {
 .top-wrap img {
     width: 300px;
 }
-
+.cacacacc span {
+    font-size: 18px;
+}
 
 
 @media (max-width: 480px) {
+	.cacacacc span {
+    font-size: 13px;
+}
 	.elementor-18927 .elementor-element.elementor-element-6cea336:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap {
 		background: transparent !important;
 	}
